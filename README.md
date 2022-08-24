@@ -29,7 +29,7 @@ Multi-AZ là một tính năng cho phép bạn triển khai một bản sao dự
 
 ### Nội dung
 
- 1. [Giới thiệu](tree/main/1-Introduce)
+ 1. [Giới thiệu](1-Introduce/)
  2. [Các bước chuẩn bị](2-Prerequiste/)
  3. [Tạo kết nối đến máy chủ EC2](3-Accessibilitytoinstance/)
  4. [Quản lý session logs](4-s3log/)
