@@ -1,6 +1,6 @@
 # Khởi tạo EC2 Instance
 
-* Chú ý:
+*Chú ý:
 Chúng ta thực hiện khởi tạo **Amazon EC2** ở **Public subnet** với mục đích kết nối **MySQL databas**e của **DB instance** trong **Private subnet**
 
 1. Truy cập **AWS Management Console**
