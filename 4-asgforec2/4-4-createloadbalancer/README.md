@@ -1,3 +1,4 @@
+# Khởi tạo Load Balancer
 
 1. Truy cập vào EC2
 -	Chọn Load Balancers
