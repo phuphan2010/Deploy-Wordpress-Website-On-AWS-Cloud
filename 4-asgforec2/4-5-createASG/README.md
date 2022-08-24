@@ -1,4 +1,4 @@
-
+# Khởi tạo Auto Scaling Group
 
 1. Truy cập vào EC2
 -	Chọn Auto Scaling Groups
