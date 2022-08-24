@@ -2,9 +2,8 @@
 
 #### Tạo VPC Security group cho Amazon EC2
 
-{{% notice note %}}
+*Chú ý:
 Chúng ta sẽ khởi tạo và cấu hình Security group cho Amazon EC2 instance sử dụng để kết nối MySQL database ở DB instance và thực thi ứng dụng.
- {{% /notice %}}
 
 1. Trong giao diện **VPC**
 + Chọn **Security Group**
