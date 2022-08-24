@@ -1,4 +1,4 @@
-#Khởi tạo AMI từ Webserver Instance
+# Khởi tạo AMI từ Webserver Instance
 
 1. Truy cập vào EC2
 -	Chọn Instances
