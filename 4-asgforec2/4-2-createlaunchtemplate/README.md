@@ -1,5 +1,5 @@
 
-
+# Khởi tạo Launch Template
 
 Ở phần này, bạn sẽ tạo một Launch Template sử dụng AMI bạn đã tạo từ Amazon Linux 2 Instance ở bước trước.
 1. Truy cập vào EC2
