@@ -1,3 +1,4 @@
+# Cài đặt Wordpress trên EC2 Instance
 
 *Chú ý:
 Chi tiết về [ kết nối EC2 Instance ](000004.awsstudygroup.com/4-launchlinuxinstance/4.2-connectlinuxinstance/)
