@@ -1,7 +1,7 @@
 
-{{% notice note %}}
+*Chú ý:
 Chi tiết về [ kết nối EC2 Instance ](000004.awsstudygroup.com/4-launchlinuxinstance/4.2-connectlinuxinstance/)
-{{% /notice %}}
+
 
 1. Sau khi kết nối EC2 instance thành công. Bạn sẽ thực hiện các bước chuẩn bị để triển khai ứng dụng:
 
