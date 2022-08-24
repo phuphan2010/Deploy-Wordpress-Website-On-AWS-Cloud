@@ -1,7 +1,7 @@
+# Khởi tạo Database Instance
 
-{{% notice note %}}
+*Chú ý:
 Chúng ta thực hiện khởi tạo **Database Instance** ở **Private subnet** với mục đích kết nối bảo vệ **DB Instance** chỉ cho **EC2 Web server** truy cập.
-{{% /notice %}}
 
 1. Truy cập **AWS Management Console**
 - Tìm **RDS**
@@ -32,9 +32,8 @@ Chúng ta thực hiện khởi tạo **Database Instance** ở **Private subnet*
 Nếu chọn Free tier sẽ không sử dụng Availability and durability, không chọn được loại Deployment
 {{% /notice %}}
 
-{{% notice tip %}}
+*Tip:
 Đối với trường hợp triển khai trên môi trường Dev/Test (hoặc Production) bạn nên lựa chọn Multi-AZ deployment để tạo thêm một standby instance ở AZ khác phục vụ cho mục tiêu dự phòng.
-{{% /notice %}}
 
 
 
