@@ -1,10 +1,4 @@
----
-title : "Dọn dẹp tài nguyên  "
-date : 2022
-weight : 7
-chapter : false
-pre : "<b>7. </b>"
----
+
 # Dọn dẹp tài nguyên
 
 Chúng ta sẽ tiến hành các bước sau để xóa các tài nguyên chúng ta đã tạo trong bài thực hành này.
