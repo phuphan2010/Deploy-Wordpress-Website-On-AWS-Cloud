@@ -1,8 +1,7 @@
+# Khởi tạo EC2 Instance
 
-
-{{% notice note %}}
+* Chú ý:
 Chúng ta thực hiện khởi tạo **Amazon EC2** ở **Public subnet** với mục đích kết nối **MySQL databas**e của **DB instance** trong **Private subnet**
-{{% /notice %}}
 
 1. Truy cập **AWS Management Console**
 - Tìm **EC2**
