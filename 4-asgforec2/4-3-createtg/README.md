@@ -1,4 +1,4 @@
-
+# Khởi tạo Target Group
 
 1. Truy cập giao diện EC2
 -	Chọn Target Groups
