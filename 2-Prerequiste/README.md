@@ -12,8 +12,8 @@ Tạo 2 SG cho **EC2 instance** và **DB instance**
 
 
 ### Nội dung
-  - [Chuẩn bị VPC và Subnet](2.1-createvpcandsubnet/)
-  - [Tạo Security Group cho EC2](2.2-createsecuritygroupec2/)
-  - [Tạo Security Group cho Database Instance](2.3-createsecuritygroupdb/)
-  - [Khởi tạo EC2 Instance](2.4-createec2/)
-  - [Khởi tạo Database Instance](2.5-createdb/)
+  - [Chuẩn bị VPC và Subnet](2-1-createvpcandsubnet/)
+  - [Tạo Security Group cho EC2](2-2-createsecuritygroupec2/)
+  - [Tạo Security Group cho Database Instance](2-3-createsecuritygroupdb/)
+  - [Khởi tạo EC2 Instance](2-4-createec2/)
+  - [Khởi tạo Database Instance](2-5-createdb/)
