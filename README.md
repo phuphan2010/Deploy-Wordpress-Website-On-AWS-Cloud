@@ -31,7 +31,8 @@ Multi-AZ là một tính năng cho phép bạn triển khai một bản sao dự
 
  1. [Giới thiệu](1-Introduce/)
  2. [Các bước chuẩn bị](2-Prerequiste/)
- 3. [Tạo kết nối đến máy chủ EC2](3-Accessibilitytoinstance/)
- 4. [Quản lý session logs](4-s3log/)
- 5. [Port Forwarding](5-Portfwd/)
- 6. [Dọn dẹp tài nguyên](6-cleanup/)
+ 3. [Cài đặt Wordpress trên EC2 Instance](3-Installwordpressonec2/)
+ 4. [Thiết lập Auto Scaling và Load Balancer](4-asgforec2/)
+ 5. [Sao lưu và phục hồi](5-backupandrestore/)
+ 6. [Cài đặt Cloudfront](6-createcloudfront/)
+ 7. [Dọn dẹp tài nguyên](7-cleanup/)
