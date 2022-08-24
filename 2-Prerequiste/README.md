@@ -1,8 +1,8 @@
 
-{{% notice note %}}
+#### Lưu ý:
 Trong bước chuẩn bị chúng ta sẽ tiến hành tạo **VPC** và **Subnet** cho web application hoạt động  
 Tạo 2 SG cho **EC2 instance** và **DB instance**
-{{% /notice %}}
+
 
 Để tìm hiểu cách tạo các EC2 instance và VPC với public/private subnet các bạn có thể tham khảo bài lab :
   - [Làm việc với Amazon VPC](https://000003.awsstudygroup.com/vi/)
